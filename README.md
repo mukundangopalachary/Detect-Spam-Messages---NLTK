@@ -14,6 +14,10 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence that 
 
 "Spam" refers to unsolicited or unwanted messages, typically sent in bulk. These messages are often promotional or contain malicious content. The model aims to identify and classify such messages as spam.
 
+## Installation
+
+`pip install -r requirements.txt`
+
 ## Conclusion
 
 By leveraging NLP techniques, this project aims to develop a robust machine learning model for ham or spam detection. The model will be trained on a labeled dataset and will be able to accurately classify new messages as either ham or spam. This can be useful in various applications, such as email filtering and message prioritization.
