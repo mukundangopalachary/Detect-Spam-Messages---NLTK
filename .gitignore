@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Python virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Miscellaneous
+.DS_Store
