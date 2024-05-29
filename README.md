@@ -16,8 +16,9 @@ Natural Language Processing (NLP) is a subfield of artificial intelligence that 
 
 ## Installation
 
-`pip install -r requirements.txt`
-
+```
+pip install -r requirements.txt
+```
 ## Conclusion
 
 By leveraging NLP techniques, this project aims to develop a robust machine learning model for ham or spam detection. The model will be trained on a labeled dataset and will be able to accurately classify new messages as either ham or spam. This can be useful in various applications, such as email filtering and message prioritization.
